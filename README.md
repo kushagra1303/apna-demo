@@ -1,4 +1,4 @@
 # apna-demo
 Learning GITHUB
 <br>
-Author - Kushagra Bhargava
+Author - Kushagra Bhargava (BIT MESRA)
